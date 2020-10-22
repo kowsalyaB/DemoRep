@@ -1,0 +1,10 @@
+selenium
+Cucumber
+TestNG
+JUnit
+Java
+Eclipse
+Maven
+Git and GitHub
+Jenkins
+Appium
